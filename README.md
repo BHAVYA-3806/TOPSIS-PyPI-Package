@@ -10,18 +10,15 @@ TOPSIS is a multi-criteria decision-making method that ranks alternatives based 
 
 ---
 
-## TOPSIS PyPI Package link:
-
-pip install topsis-BHAVYA-102203806
-
----
-
 ## 🛠 Installation
 
-You can install the package via PyPI (if published):
-bash
-pip install topsis-BHAVYA-102203806
+You can install the package via PyPI:  
 
+[https://pypi.org/project/topsis-BHAVYA-102203806/](https://pypi.org/project/topsis-BHAVYA-102203806/)
+
+```bash
+pip install topsis-BHAVYA-102203806
+```
 
 Or, clone this repository and install the required dependencies:
 bash
