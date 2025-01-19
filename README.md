@@ -21,11 +21,11 @@ pip install topsis-BHAVYA-102203806
 ```
 
 Or, clone this repository and install the required dependencies:
-bash
+```bash
 git clone https://github.com/bmahajan230/topsis-BHAVYA-102203806.git
 cd topsis-BHAVYA-102203806
 pip install -r requirements.txt
-
+```
 
 ---
 
